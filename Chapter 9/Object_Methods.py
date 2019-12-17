@@ -3,8 +3,8 @@ class Person:
         self.name = name
         self.age = age
 
+    def myfun(self):
+        print("Hello my Name is " + self.name)
 
-p1 = Person("John", 36)
 
-print(p1.name)
-print(p1.age)
+p1 = Person("Johan", 36)
