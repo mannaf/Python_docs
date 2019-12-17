@@ -8,3 +8,4 @@ class Person:
 
 
 p1 = Person("Johan", 36)
+p1.myfun()
